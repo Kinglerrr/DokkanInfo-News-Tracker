@@ -26,12 +26,12 @@ Dự án bao gồm các tệp tin chính sau:
 
 Vì tiện ích này đang ở dạng mã nguồn gốc (Unpacked), bạn sẽ cài đặt nó thông qua **Chế độ dành cho nhà phát triển (Developer Mode)** của trình duyệt Google Chrome bằng các bước sau:
 
-1. Tải toàn bộ mã nguồn của dự án này và đặt chung vào một thư mục trên máy tính của bạn (ví dụ: `Dokkan_Extension`).
+1. Tải toàn bộ mã nguồn của dự án này và đặt chung vào một thư mục trên máy tính của bạn.
 2. Mở trình duyệt Google Chrome.
 3. Sao chép và dán đường dẫn này vào thanh địa chỉ để mở trang Quản lý Tiện ích: `chrome://extensions/`
 4. Ở góc trên cùng bên phải của trang, bật công tắc **Chế độ cho nhà phát triển (Developer mode)**.
 5. Nhấp vào nút **Tải tiện ích đã giải nén (Load unpacked)** xuất hiện ở thanh menu trên cùng bên trái.
-6. Cửa sổ chọn thư mục hiện ra, hãy chọn đúng thư mục `Dokkan_Extension` mà bạn đã lưu ở Bước 1.
+6. Cửa sổ chọn thư mục hiện ra, hãy chọn đúng thư mục chứa dự án mà bạn đã lưu ở Bước 1.
 7. Hoàn tất! Tiện ích đã được thêm vào trình duyệt. Hãy nhấp vào biểu tượng mảnh ghép (Extensions) ở góc phải thanh địa chỉ và chọn **Ghim (Pin)** để tiện ích luôn hiển thị.
 
 ## 💡 Hướng dẫn sử dụng
@@ -40,4 +40,8 @@ Vì tiện ích này đang ở dạng mã nguồn gốc (Unpacked), bạn sẽ c
 *   **Cài đặt thời gian:** Chuyển sang thẻ **Settings** trong giao diện để thay đổi khoảng thời gian hệ thống tự động quét ngầm (Khuyên dùng: 5 phút hoặc 15 phút).
 
 ---
-*Được phát triển với niềm đam mê dành cho Dokkan Battle!*
+## ⚠️ Lưu ý quan trọng
+Mã nguồn và tiện ích này được thiết kế chuyên biệt và **chỉ dùng cho trang web https://dokkaninfo.com/**. Tiện ích sẽ không hoạt động nếu áp dụng cho các nền tảng hoặc trang web khác do sự khác biệt về cấu trúc dữ liệu.
+
+## 🙏 Lời cảm ơn
+Xin gửi lời cảm ơn chân thành và sâu sắc nhất đến **[https://dokkaninfo.com/](https://dokkaninfo.com/)** vì đã xây dựng, duy trì một cơ sở dữ liệu tuyệt vời và cung cấp nguồn tin tức vô giá cho toàn thể cộng đồng người chơi Dokkan Battle.
