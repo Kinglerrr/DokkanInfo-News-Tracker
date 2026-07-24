@@ -1,4 +1,4 @@
-🌍 **Language / Ngôn ngữ:** [🇺🇸 English](README-en.md) | [🇻🇳 Tiếng Việt](README.md) 
+🌍 **Language / Ngôn ngữ:** [🇺🇸 English](README.md) | [🇻🇳 Tiếng Việt](README-vn.md) 
 ---
 
 # 🐉 Dokkan News Tracker (Chrome Extension)
