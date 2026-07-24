@@ -26,12 +26,12 @@ The project includes the following core files:
 
 Since this extension is in its source code form (Unpacked), you will need to install it via Google Chrome's **Developer Mode** using the following steps:
 
-1. Download all the source code files and place them into a single folder on your computer (e.g., `Dokkan_Extension`).
+1. Download all the source code files and place them into a single folder on your computer.
 2. Open the Google Chrome browser.
 3. Copy and paste this URL into the address bar to open the Extensions Management page: `chrome://extensions/`
 4. In the top right corner, toggle on **Developer mode**.
 5. Click the **Load unpacked** button that appears in the top left menu.
-6. A folder selection window will appear; choose the `Dokkan_Extension` folder you created in Step 1.
+6. A folder selection window will appear; choose the folder you created in Step 1.
 7. Done! The extension has been added to your browser. Click the puzzle piece icon (Extensions) on the right side of the address bar and select **Pin** to keep the extension visible.
 
 ## 💡 How to Use
@@ -40,4 +40,8 @@ Since this extension is in its source code form (Unpacked), you will need to ins
 *   **Set Intervals:** Switch to the **Settings** tab in the interface to change the background auto-check interval (Recommended: 5 or 15 minutes).
 
 ---
-*Developed with passion for Dokkan Battle!*
+## ⚠️ Disclaimer
+This source code and extension are purpose-built and **strictly intended for use with https://dokkaninfo.com/ only**. It will not function with other platforms or websites due to specific data structure dependencies.
+
+## 🙏 Special Thanks & Credits
+A massive and sincere thank you to **[https://dokkaninfo.com/](https://dokkaninfo.com/)** for building and maintaining such an incredible database, and for providing an invaluable news source for the entire Dokkan Battle community.
