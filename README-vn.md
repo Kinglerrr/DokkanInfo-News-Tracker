@@ -3,7 +3,7 @@
 
 # 🐉 Dokkan News Tracker (Chrome Extension)
 
-Một tiện ích mở rộng gọn nhẹ dành cho Google Chrome giúp bạn không bao giờ bỏ lỡ bất kỳ tin tức mới nào từ **Dokkan Battle**. Tiện ích sẽ âm thầm chạy ngầm và gửi thông báo trực tiếp đến màn hình máy tính của bạn ngay khi có sự kiện mới!
+Một tiện ích mở rộng gọn nhẹ dành cho Google Chrome giúp bạn không bao giờ bỏ lỡ bất kỳ tin tức mới nào từ **Dokkan Battle**. Tiện ích sẽ âm thầm chạy ngầm và gửi thông báo trực tiếp đến màn hình máy tính của bạn ngay khi có sự kiện mới!!
 
 ## ✨ Tính năng nổi bật
 
