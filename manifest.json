@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Dokkan News Tracker",
+  "version": "1.5",
+  "description": "Theo dõi tin tức Dokkan & Tùy chỉnh thời gian quét",
+  "permissions": ["alarms", "storage", "notifications"],
+  "host_permissions": ["https://dokkaninfo.com/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "icons": {
+    "128": "icon.png"
+  }
+}

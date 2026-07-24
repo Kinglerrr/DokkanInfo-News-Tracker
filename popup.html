@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Dokkan News</title>
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+  <div class="tabs">
+    <button class="tab active" data-tab="news">📰 News</button>
+    <button class="tab" data-tab="settings">⚙️ Settings</button>
+  </div>
+
+  <div id="news" class="tab-content active">
+    <div id="news-list">
+      <div class="loading">Loading live data... ⏳</div>
+    </div>
+    <button id="btn-open" class="claim-btn">View All on Web</button>
+  </div>
+
+  <div id="settings" class="tab-content">
+    <label>Auto-check background every:</label>
+    <select id="interval">
+      <option value="1">1 minute (Fastest - Risky)</option>
+      <option value="5">5 minutes (Recommended)</option>
+      <option value="15">15 minutes</option>
+      <option value="30">30 minutes</option>
+      <option value="60">1 hour</option>
+      <option value="180">3 hours</option>
+    </select>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
