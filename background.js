@@ -80,7 +80,12 @@ chrome.runtime.onInstalled.addListener(() => {
 });
 
 chrome.alarms.onAlarm.addListener(alarm => {
-  if (alarm.name === "checkDokkan") checkForNewNews();
+  if (alarm.name === "checkDokkan") {
+    const randomDelay = Math.floor(Math.random() * 30000);
+      setTimeout(() => {
+      checkForNewNews();
+    }, randomDelay);
+  }
 });
 
 chrome.runtime.onMessage.addListener((msg) => {
